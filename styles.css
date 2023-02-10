@@ -1,0 +1,27 @@
+body{
+    background-color: #88A47C;
+    font-family: cursive;
+}
+h1{
+    text-align: center;
+    color:#FFF8EA;
+}
+div{
+    background-color: beige;
+    margin:20px 300px 30px 300px;
+    padding: 50px;
+    
+
+}
+
+.button{
+    background-color: beige;
+    font-family: cursive;
+}
+.nme{
+    width: 100%;
+}
+
+footer{
+    text-align: center;
+}
